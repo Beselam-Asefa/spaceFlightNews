@@ -12,6 +12,7 @@
 - I have Resource wrapper class for managing the request status and a responseHandler class for handling success and diffrent kind of IO exeptions  
 - Since the idea of the project is to retrive and display latest news,I did not implement a local cash , but I have other projects in this 
  GitHub page in case needs to check my local cash implementation. 
+- Junit 4  for unit test 
 
 ---
 
