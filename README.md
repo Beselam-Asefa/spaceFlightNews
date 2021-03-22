@@ -4,7 +4,7 @@
 
  ## Discription 
  -------------------------------------------------------
-- This is a News app which display the latest space related news
+- This is a News app which display the latest space flight related news
 - I used MVVM design pattern and  concepts of Clean architecture
 - I have considered separation of concerns and the testability that each layer provides.
 - I have implemeted an entity mapper for mapping the data between the network entity and the domain model which makes our network model replacable. 
