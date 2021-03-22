@@ -55,4 +55,4 @@
 ---------------------
 
 
-<img src="screenshot/image1.PNG" width="280">.  .  .   .<img src="schreenshot/image2.PNG" width="280"> 
+<img src="screenshot/image1.PNG" width="280">.  .  .   .<img src="screenshot/image2.PNG" width="280"> 
