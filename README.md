@@ -15,7 +15,7 @@
 
 ---
 
- ## Technologies   
+ ## Technologies / Techniques 
     
  -----------------------------------------------------
  
@@ -24,6 +24,7 @@
 - Coroutines and LiveData
 - Glide 
 - Dagger Hilt 
+- view binding
 - Junit 4 /unit test
 
 
@@ -47,7 +48,15 @@
 
 -----------------------------------------------------------
 
+## Instractions
 
+
+- To run and test the app , it is possible to clone this repository. I have also attached the zip file on my last email 
+- I preffred the user to retrive the news by pressing the fab buttom rather than auto loading when the app start
+- when the app start there is a text which guid the user to press the button to get the news 
+- press the fab button and the news will be displayed 
+
+-----------------------------------------------------------
  
 
 ## photos
