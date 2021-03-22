@@ -20,19 +20,19 @@
  -----------------------------------------------------
  
 - Native android
-- Retrofit for a network call
-- Room for local storage
-- Kotlin coroutines for background tasks
-- Jetpack Nav
-- Material design
-- Kotlin
+- Retrofit
+- Coroutines and LiveData
+- Glide 
+- Dagger Hilt 
+- Junit 4 /unit test
+
 
 
 
  
  |  Min SDK Version | Version Name  | SDK Version |
  | ---------------- |:-------------:| ----------  |
- |  23              |  1.0          |      29     |
+ |  27              |  1.0          |      30    |
 
  
  
