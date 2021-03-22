@@ -21,6 +21,7 @@
  -----------------------------------------------------
  
 - Native android
+- Kotlin
 - Retrofit
 - Coroutines and LiveData
 - Glide 
